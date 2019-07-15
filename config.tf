@@ -1,8 +1,5 @@
 # An AMI
-variable "ami" {
-  description = "the AMI to use
-}
-
+variable "ami" {description = "the AMI to use}
 /* A multi
    line comment. */
    
